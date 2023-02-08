@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m @ahmetsedr </h1>
-<div align="center" ><img align="center" alt="Coding" width="250" src="https://media.tenor.com/DabZu8Jwk-UAAAAC/arda-turan-gym.gif"><p align="center">Merhaba, ben Ahmet Semih. <a href="https://uretkenakademi.com/" target="_blank">Üretken Akademi</a> yazılım programının bir üyesiyim. HTML, CSS, JS, SASS ile tecrübeli bir web geliştiriciyim. Ayrıca, versiyon kontrol sistemi GIT ile de deneyimliyim. Responsive tasarım ve tarayıcı uyumluluğu konularına önem veririm ve Web Vitals hakkında da bilgim var. Webpack ve NPM hakkında da bilgi sahibiyim. Takipte kalın.</p></div>
+<div align="center" ><img align="center" alt="Coding" width="250" src="https://media.tenor.com/ang0VzOwbdAAAAAS/the-matrix-reloaded-matrix.gif"><p align="center">Merhaba, ben Ahmet Semih. <a href="https://uretkenakademi.com/" target="_blank">Üretken Akademi</a> yazılım programının bir üyesiyim. HTML, CSS, JS, SASS ile tecrübeli bir web geliştiriciyim. Ayrıca, versiyon kontrol sistemi GIT ile de deneyimliyim. Responsive tasarım ve tarayıcı uyumluluğu konularına önem veririm ve Web Vitals hakkında da bilgim var. Webpack ve NPM hakkında da bilgi sahibiyim. Takipte kalın.</p></div>
 
 <h3 align="center">Social Meida:</h3>
 <p align="center">
