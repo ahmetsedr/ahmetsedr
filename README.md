@@ -7,7 +7,7 @@
   <a href="https://codepen.io/ahmetsedr" target="blank"><img align="center" src="https://www.svgrepo.com/show/353582/codepen-icon.svg" alt="ahmetsemihdur" height="30" width="30" /></a>
   <a href="https://www.youtube.com/@ahmetsemihdur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/youtube.svg" alt="ahmetsemihdur" height="30" width="30" /></a>
   <a href="mailto:ahmetsecodr@gmail.com" target="blank"><img align="center" src="https://freesvg.org/img/Mail-Icon-White-on-Grey.png" alt="ahmetsemihdur" height="30" width="30" /></a>
-  <a href="https://ahmetsedr.github.io/TwitterKlonu/pages/index.html" target="blank"><img align="center" src="https://images.vexels.com/media/users/3/199980/isolated/preview/4c910ee68a0f4fe8029f72e40bc10fe6-internet-browsing-symbol-strich-rosa.png" alt="ahmetsemihdur" height="30" width="30" />(Update New)</a>
+  <a href="https://ahmetsedr.github.io/TwitterClone/pages/" target="blank"><img align="center" src="https://images.vexels.com/media/users/3/199980/isolated/preview/4c910ee68a0f4fe8029f72e40bc10fe6-internet-browsing-symbol-strich-rosa.png" alt="ahmetsemihdur" height="30" width="30" />(Update New)</a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
