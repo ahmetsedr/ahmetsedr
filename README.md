@@ -1,41 +1,24 @@
-<h1 align="center">👋 Hi, I’m @ahmetsedr </h1>
-<div align="center" ><img align="center" alt="Coding" width="250" src="https://media.tenor.com/rz7YXvXEWvIAAAAC/core-keeper-core.gif"><p align="center">Merhaba, ben Ahmet Semih. <a href="https://uretkenakademi.com/" target="_blank">Üretken Akademi</a> yazılım programının bir üyesiyim. HTML, CSS, JS, SASS , React ile tecrübeli bir web geliştiriciyim. Ayrıca, versiyon kontrol sistemi GIT ile de deneyimliyim. Responsive tasarım ve tarayıcı uyumluluğu konularına önem veririm ve Web Vitals hakkında da bilgim var. Webpack ve NPM hakkında da bilgi sahibiyim. Takipte kalın.</p></div>
+# 👋 Merhaba, Ben Ahmet Semih Dur
 
-<h3 align="center">Social Meida:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/ahmet-semih-dur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmetsemihdur" height="30" width="30" /></a>
-  <a href="https://codepen.io/ahmetsedr" target="blank"><img align="center" src="https://www.svgrepo.com/show/353582/codepen-icon.svg" alt="ahmetsemihdur" height="30" width="30" /></a>
-  <a href="https://www.youtube.com/@ahmetsemihdur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/youtube.svg" alt="ahmetsemihdur" height="30" width="30" /></a>
-  <a href="mailto:ahmetsecodr@gmail.com" target="blank"><img align="center" src="https://freesvg.org/img/Mail-Icon-White-on-Grey.png" alt="ahmetsemihdur" height="30" width="30" /></a>
-  <a href="https://ahmetsedr.github.io/TwitterClone/pages/" target="blank"><img align="center" src="https://images.vexels.com/media/users/3/199980/isolated/preview/4c910ee68a0f4fe8029f72e40bc10fe6-internet-browsing-symbol-strich-rosa.png" alt="ahmetsemihdur" height="30" width="30" />(Update New)</a>
-</p>
+Merhaba, ben Ahmet Semih. [Üretken Akademi](https://uretkenakademi.com/) yazılım programının bir üyesiyim. HTML, CSS, JS, SASS , React ile tecrübeli bir web geliştiriciyim. Ayrıca, versiyon kontrol sistemi GIT ile de deneyimliyim. Responsive tasarım ve tarayıcı uyumluluğu konularına önem veririm ve Web Vitals hakkında da bilgim var. Webpack ve NPM hakkında da bilgi sahibiyim. Takipte kalın.
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
-</a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> 
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
-</a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
-</a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> 
-</a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/sass.svg" alt="bootstrap" width="50" height="50"/> 
-</a>
-    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/reactjs.svg" alt="bootstrap" width="50" height="50"/> 
-</a>
-  <div align="center"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
- <img src="https://www.svgrepo.com/show/353735/firebase.svg" alt="bootstrap" width="50" height="50"/> 
-</a></div><p align="center">(Learn)</p>
+<details style="font-size:20px">
+<summary>🧰 Diller ve Teknolojiler </summary>
 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NextJs](https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white) ![NPM](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatgpt-%234FC08D.svg?style=for-the-badge&logo=openai&logoColor=white)
 
-<p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahmetsedr&layout=compact" alt="ahmetsemihdur" /></p>
+</details>
+
+<details style="font-size:20px">
+<summary>📞 Sosyal Medya ve İletişim </summary>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmet-semih-dur/)
+[![CodePen](https://img.shields.io/badge/codepen-%23000000.svg?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ahmetsedr)
+[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ahmetsemihdur)
+[![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmetsecodr@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmetsedr)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://ahmetsedr.github.io/TwitterClone/pages/)
+
+</details>
+
+<div align="center" ><img align="center" alt="Coding" width="250" src="https://media.tenor.com/rz7YXvXEWvIAAAAC/core-keeper-core.gif"></div>
